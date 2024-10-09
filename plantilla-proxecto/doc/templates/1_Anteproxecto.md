@@ -107,7 +107,7 @@ Las herramientas necesarias (
 > - Usaré HTML CSS JAVASCRIPT PYHTON MySQL
 
 ## 4- Planificación
-
+DIAGRAMA DE GANTT!!!!
 
 > O proxecto estará formado polas seguintes fases:
 >
