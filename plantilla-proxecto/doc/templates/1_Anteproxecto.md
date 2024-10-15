@@ -5,7 +5,7 @@
 ## 1- Descrición do proxecto
 
 
-Mi proyecto consiste en una página web para una peluquería. En la página habrá una lista de que horas estarán ocupadas y cuales no para que las personas
+Mi proyecto consiste en una aplicación web para gestionar citas una peluquería. En la aplicación habrá una lista de que horas estarán ocupadas y cuales no para que las personas
 interesadas puedan pedir cita cuando quieran. La mayoría de las peluquerias por donde yo vivo no tienen páginas web, y si las tienen, son muy básicas
 y no dan mucha información. Mi página web tendrá como objetivo que los clientes interesados puedan pedir cita por la página web y elegir el tipo
 de peinado que quieren, peluca, etc. Así cuando llege la hora de la cita los trabajadores ya estarán preparados para ellos. La página web
@@ -17,7 +17,7 @@ también podrá avisar de promociones o tendencias para atraer a mas clientes.
 
 ### 2.1- Idea de negocio
 
-
+Aplicación web para gestionar citas en peluquerías.
 Página web para una peluquería donde los clientes podrán pedir cita y elegir como quieren cortarse el pelo.
 
 ### 2.2- Xustificación da idea
@@ -25,7 +25,7 @@ Página web para una peluquería donde los clientes podrán pedir cita y elegir 
 
 Se me ocurrió mi idea al hablar con mi tia que es peluquera. Me dijo que no tenía una pagina web y le gustaría tener una. Comprobé que la mayoría de peluquerías de la zona
 no tienen páginas web; de hecho, una de las pricipales debilidades de las peluquerías es no tener servicios en línea o no tener suficiente experiencia en 
-marketing por internet. Mi página web es la solución a ese problema.
+marketing por internet. Mi aplicación web es la solución a ese problema.
 
 ### 2.3- Segmento de clientes
 
