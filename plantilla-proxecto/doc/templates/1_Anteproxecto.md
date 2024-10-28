@@ -17,8 +17,8 @@ también podrá avisar de promociones o tendencias para atraer a mas clientes.
 
 ### 2.1- Idea de negocio
 
-Aplicación web para gestionar citas en peluquerías.
-Página web para una peluquería donde los clientes podrán pedir cita y elegir como quieren cortarse el pelo.
+Aplicación web para gestionar citas en peluquerías y elegir como cortarse el pelo.
+
 
 ### 2.2- Xustificación da idea
 
@@ -30,12 +30,12 @@ marketing por internet. Mi aplicación web es la solución a ese problema.
 ### 2.3- Segmento de clientes
 
 
-Todo el mundo tiene que ir a la peluquería en algún momento asi que mi página web irá dirigida a personas de cualquier edad o género.
+Mi aplicación web será para peluquerías que quieran usarla para atraer clientes y que puedan crear citas fácilmente.
 
 ### 2.4- Competencia
 
-
-En Sanxenxo hay aproximadamente unas 35 peluquerías. La mayoría están cerca de las playas que es donde pasa más gente.
+El resto de peluquerías y como gestionan sus páginas web sería la competencia.
+Las peluquerías suelen tienen páginas web muy simples. Mi aplicación web hará que sean más profesionales.
 
 ### 2.5- Proposta de valor
 
@@ -44,7 +44,7 @@ En Sanxenxo hay aproximadamente unas 35 peluquerías. La mayoría están cerca d
 -Apuntar las citas en una agenda de papel
 -Hacer esperar a los clientes
 -No hacer promociones en la web
-Mi página web tiene como objetivo solucionar esos problemas
+Mi aplicación web tiene como objetivo solucionar esos problemas
 
 ### 2.6- Forma xurídica
 
@@ -95,12 +95,12 @@ Las herramientas necesarias (
 #### 2.8.2 - Viabilidade económica
 
 
-> Una página web normal puede costar unos 5500 euros al año. Dados los beneficios que daría a la peluquería merece la pena hacer una página web.
-
+> Una página web normal puede costar unos 5500 euros al año.
 #### 2.8.3- Conclusión
 
 
-> - Si se hace bien los beneficios deberían ser superiores a los costes.
+> -  Lo normal es no conseguir beneficios los primeros años pero con el tiempo mi aplicación dará beneficios.
+
 
 ## 3- Requirimentos técnicos
 
