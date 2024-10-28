@@ -7,9 +7,8 @@
 
 Mi proyecto consiste en una aplicación web para gestionar citas una peluquería. En la aplicación habrá una lista de que horas estarán ocupadas y cuales no para que las personas
 interesadas puedan pedir cita cuando quieran. La mayoría de las peluquerias por donde yo vivo no tienen páginas web, y si las tienen, son muy básicas
-y no dan mucha información. Mi página web tendrá como objetivo que los clientes interesados puedan pedir cita por la página web y elegir el tipo
-de peinado que quieren, peluca, etc. Así cuando llege la hora de la cita los trabajadores ya estarán preparados para ellos. La página web
-también podrá avisar de promociones o tendencias para atraer a mas clientes.
+y no dan mucha información. Mi aplicación web tendrá como objetivo que las peluquerías puedan apuntar la información de sus clientes y elegir el tipo
+de peinado que quieren, peluca, etc. Así cuando llege la hora de la cita los trabajadores ya estarán preparados para ellos.
 
 ## 2- Empresa
 
